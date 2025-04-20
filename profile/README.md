@@ -1,6 +1,6 @@
 # ✨ Welcome to Jarod'57 Organization ✨  
 
-This is the official Jarod'57 Github Organization, here you will find tools that were developed for Jarod'57 🌴 and TavernMan 🍸 !  
+This is the official Jarod'57 Github Organization, here you will find tools that were developed for Jarod'57 🌴 and TavernMan 🍸 with Unity 3D 🎮!  
 
 Most of them are unfinished prototypes that are now public, but you'll find gems too if you look further 🔭  
 
